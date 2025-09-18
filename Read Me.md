@@ -1,6 +1,6 @@
 # Industrial Lift Table Design Project  
 
-📌 Project Overview  
+## 📌 Project Overview  
 This project focuses on the design and analysis of an adjustable-height industrial lift table.  
 The system includes a shaft, a wooden table plank, and a spring mechanism, designed and analyzed using MATLAB, SolidWorks, and ADAMS.  
 
